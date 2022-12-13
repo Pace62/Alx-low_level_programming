@@ -1,7 +1,7 @@
 #include <stdio>
 
 /**
- * main - prints all strings from 0 to 9
+ * main - prints all number from 0 to 9
  * Return: 0
  */
 int main(void)
