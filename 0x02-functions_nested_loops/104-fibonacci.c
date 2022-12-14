@@ -34,13 +34,13 @@ int main(void)
 
 	while (i <= 98)
 	{
-		if (f10 > 0)
+		if (f1o > 0)
 			printf("%lu", f1o);
-		initial0s = numlength(mx) - 1 - numlength(f1);
-		while (f1o > 0 && initial0s > 0)
+		intial0s = numlength(mx) - 1 - numlength(f1);
+		while (f1o > 0 && intial0s > 0)
 		{
 			printf("%i", 0);
-			initial0s--;
+			intial0s--;
 		}
 		printf("%lu", f1);
 
@@ -52,7 +52,7 @@ int main(void)
 		f2o = tmpo;
 
 		if (i != 98)
-			printf(',')
+			printf(int)
 		else
 			printf("\n")
 			i++;
