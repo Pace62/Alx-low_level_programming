@@ -52,9 +52,8 @@ int main(void)
 		f2o = tmpo;
 
 		if (i != 98)
-			printf(int)
-		else
-			printf("\n")
+			printf(int);
+			printf("\n");
 			i++;
 	}
 	return (0);
