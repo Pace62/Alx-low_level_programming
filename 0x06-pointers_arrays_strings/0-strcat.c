@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strcat - string to overwrite the (\0) at the end of dest and adds it again
+ * *_strcat - string to overwrite the (\0) at the end of dest and adds it again
  * @dest: string
  * @src: string
  * Return: pointer to @dest.
