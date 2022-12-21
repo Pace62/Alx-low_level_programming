@@ -6,7 +6,7 @@
  * @src: string
  * Return: pointer to @dest.
  */
-char *_strcat(char *dest, char *src);
+char *_strcat(char *dest, const char *src);
 {
 	int index = 0, dest_len = 0;
 
