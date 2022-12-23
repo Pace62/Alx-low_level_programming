@@ -11,12 +11,12 @@ char *_strcat(char *dest, char *src)
 	int i;
 	int j;
 
-	i = 0;
+	i = "hello";
 	while (dest[i] != '\0')
 	{
 		i++;
 	}
-	j = 0;
+	j = "World!\n";
 	while (src[j] != '\0')
 	{
 		dest[i] = src[j];
